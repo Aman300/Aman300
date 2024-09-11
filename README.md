@@ -8,11 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/amansharma" target="blank"><img src="https://img.shields.io/twitter/follow/amansharma?logo=twitter&style=for-the-badge" alt="amansharma"  </p>
   
--🔭 I’m currently working on a Ludo Web App and exploring Web3 technologies.
--🌱 I’m diving deeper into Web3 and blockchain development.
--💬 Feel free to ask me about Android development and the MERN stack.
--📫 You can reach me at developeramansharma@gmail.com.
--⚡ Fun fact: I love creating fun and engaging games!
+- 🔭 I’m currently working on a Ludo Web App and exploring Web3 technologies.
+
+- 🌱 I’m diving deeper into Web3 and blockchain development.
+
+- 💬 Feel free to ask me about Android development and the MERN stack.
+
+- 📫 You can reach me at developeramansharma@gmail.com.
+
+- ⚡ Fun fact: I love creating fun and engaging games!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
